@@ -23,3 +23,4 @@ Classify traffic signs from images using a Convolutional Neural Network.
 
 ```bash
 pip install torch torchvision scikit-learn
+----------------
