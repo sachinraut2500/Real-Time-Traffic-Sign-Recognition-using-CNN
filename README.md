@@ -10,7 +10,7 @@ Classify traffic signs from images using a Convolutional Neural Network.
 - Supports multi-class classification
 - Real-time applicable model architecture
 
------
+------
 
 ## Dataset
 
